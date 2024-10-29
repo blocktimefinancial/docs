@@ -47,7 +47,11 @@
 
 # Introduction
 
+Welcome to a brief overview of the Block Time Financial's "Digital Core" platform. The platform handles all of the "backoffice" middleware for you to provide an easy to use API. We strive to have as much needed data to satisfy all your regulatory and compliance needs. The unified API is actually a set of APIs that provide you with all the blockchain functionality and best practices. These can be all found in our API documentation. You'll need to be onboarded as a client to have access to them. Please contact sales on our website, blocktimefinancial.com to start your building!
+
 ## What's so great about blockchain and why is it important?
+
+A blockchain is a distributed immutable ledger. This makes it possible to store value on a blockchain. There is currently over three trillion dollars of digital assets on blockchains. Most blockchains provide "smart contracts" that run on validating nodes. These smart contracts are little computer programs that can change the ledger. Some provide the ability to transfer assets, mint or create assets, and burn or cancel assets. More complex smart contracts build on these primitives and provide escrow services, time release of assets, dividend payments and more. What makes blockchain so very efficient is what called an atomic swap.
 
 ## What is the Digital Core?
 
